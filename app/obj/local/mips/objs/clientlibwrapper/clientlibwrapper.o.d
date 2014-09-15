@@ -1,0 +1,23 @@
+obj/local/mips/objs/clientlibwrapper/clientlibwrapper.o: \
+ jni/clientlibwrapper.cpp \
+ /home/jaydeep/SDKs/android-ndk-r10b/platforms/android-L/arch-mips/usr/include/jni.h \
+ /home/jaydeep/SDKs/android-ndk-r10b/platforms/android-L/arch-mips/usr/include/sys/cdefs.h \
+ /home/jaydeep/SDKs/android-ndk-r10b/platforms/android-L/arch-mips/usr/include/sys/cdefs_elf.h \
+ /home/jaydeep/SDKs/android-ndk-r10b/platforms/android-L/arch-mips/usr/include/android/api-level.h \
+ /home/jaydeep/SDKs/android-ndk-r10b/platforms/android-L/arch-mips/usr/include/android/log.h \
+ /home/jaydeep/SDKs/android-ndk-r10b/sources/cxx-stl/gnu-libstdc++/4.9/include/string \
+ /home/jaydeep/SDKs/android-ndk-r10b/sources/cxx-stl/gnu-libstdc++/4.9/include/vector
+
+/home/jaydeep/SDKs/android-ndk-r10b/platforms/android-L/arch-mips/usr/include/jni.h:
+
+/home/jaydeep/SDKs/android-ndk-r10b/platforms/android-L/arch-mips/usr/include/sys/cdefs.h:
+
+/home/jaydeep/SDKs/android-ndk-r10b/platforms/android-L/arch-mips/usr/include/sys/cdefs_elf.h:
+
+/home/jaydeep/SDKs/android-ndk-r10b/platforms/android-L/arch-mips/usr/include/android/api-level.h:
+
+/home/jaydeep/SDKs/android-ndk-r10b/platforms/android-L/arch-mips/usr/include/android/log.h:
+
+/home/jaydeep/SDKs/android-ndk-r10b/sources/cxx-stl/gnu-libstdc++/4.9/include/string:
+
+/home/jaydeep/SDKs/android-ndk-r10b/sources/cxx-stl/gnu-libstdc++/4.9/include/vector:
